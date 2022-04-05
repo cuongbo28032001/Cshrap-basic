@@ -1,0 +1,16 @@
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\bin\Debug\net5.0\Mang.exe
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\bin\Debug\net5.0\Mang.deps.json
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\bin\Debug\net5.0\Mang.runtimeconfig.json
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\bin\Debug\net5.0\Mang.runtimeconfig.dev.json
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\bin\Debug\net5.0\Mang.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\bin\Debug\net5.0\ref\Mang.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\bin\Debug\net5.0\Mang.pdb
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.csproj.AssemblyReference.cache
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.AssemblyInfoInputs.cache
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.AssemblyInfo.cs
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.csproj.CoreCompileInputs.cache
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\ref\Mang.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.pdb
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\Mang\obj\Debug\net5.0\Mang.genruntimeconfig.cache

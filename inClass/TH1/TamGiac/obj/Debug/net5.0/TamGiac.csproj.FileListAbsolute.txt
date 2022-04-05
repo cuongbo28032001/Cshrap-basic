@@ -1,0 +1,15 @@
+C:\Users\Doan Cuong\source\repos\TamGiac\bin\Debug\net5.0\TamGiac.exe
+C:\Users\Doan Cuong\source\repos\TamGiac\bin\Debug\net5.0\TamGiac.deps.json
+C:\Users\Doan Cuong\source\repos\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.json
+C:\Users\Doan Cuong\source\repos\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.dev.json
+C:\Users\Doan Cuong\source\repos\TamGiac\bin\Debug\net5.0\TamGiac.dll
+C:\Users\Doan Cuong\source\repos\TamGiac\bin\Debug\net5.0\ref\TamGiac.dll
+C:\Users\Doan Cuong\source\repos\TamGiac\bin\Debug\net5.0\TamGiac.pdb
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfoInputs.cache
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfo.cs
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\TamGiac.csproj.CoreCompileInputs.cache
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\TamGiac.dll
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\ref\TamGiac.dll
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\TamGiac.pdb
+C:\Users\Doan Cuong\source\repos\TamGiac\obj\Debug\net5.0\TamGiac.genruntimeconfig.cache

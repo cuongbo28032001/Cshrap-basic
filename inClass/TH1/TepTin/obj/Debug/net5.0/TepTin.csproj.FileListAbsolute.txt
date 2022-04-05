@@ -1,0 +1,16 @@
+C:\Users\Doan Cuong\source\repos\TepTin\bin\Debug\net5.0\TepTin.exe
+C:\Users\Doan Cuong\source\repos\TepTin\bin\Debug\net5.0\TepTin.deps.json
+C:\Users\Doan Cuong\source\repos\TepTin\bin\Debug\net5.0\TepTin.runtimeconfig.json
+C:\Users\Doan Cuong\source\repos\TepTin\bin\Debug\net5.0\TepTin.runtimeconfig.dev.json
+C:\Users\Doan Cuong\source\repos\TepTin\bin\Debug\net5.0\TepTin.dll
+C:\Users\Doan Cuong\source\repos\TepTin\bin\Debug\net5.0\ref\TepTin.dll
+C:\Users\Doan Cuong\source\repos\TepTin\bin\Debug\net5.0\TepTin.pdb
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.csproj.AssemblyReference.cache
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.AssemblyInfoInputs.cache
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.AssemblyInfo.cs
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.csproj.CoreCompileInputs.cache
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.dll
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\ref\TepTin.dll
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.pdb
+C:\Users\Doan Cuong\source\repos\TepTin\obj\Debug\net5.0\TepTin.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\bin\Debug\net5.0\Phieu3_BTVN.exe
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\bin\Debug\net5.0\Phieu3_BTVN.deps.json
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\bin\Debug\net5.0\Phieu3_BTVN.runtimeconfig.json
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\bin\Debug\net5.0\Phieu3_BTVN.runtimeconfig.dev.json
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\bin\Debug\net5.0\Phieu3_BTVN.dll
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\bin\Debug\net5.0\ref\Phieu3_BTVN.dll
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\bin\Debug\net5.0\Phieu3_BTVN.pdb
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.csproj.AssemblyReference.cache
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.AssemblyInfoInputs.cache
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.AssemblyInfo.cs
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.csproj.CoreCompileInputs.cache
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.dll
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\ref\Phieu3_BTVN.dll
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.pdb
+E:\Ky6\C#\BT\homeWork\Buoi3\ListSV\Phieu3_BTVN\obj\Debug\net5.0\Phieu3_BTVN.genruntimeconfig.cache

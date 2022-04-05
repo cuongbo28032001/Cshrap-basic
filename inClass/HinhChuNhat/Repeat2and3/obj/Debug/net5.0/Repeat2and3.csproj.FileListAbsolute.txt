@@ -1,0 +1,16 @@
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\bin\Debug\net5.0\Repeat2and3.exe
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\bin\Debug\net5.0\Repeat2and3.deps.json
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\bin\Debug\net5.0\Repeat2and3.runtimeconfig.json
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\bin\Debug\net5.0\Repeat2and3.runtimeconfig.dev.json
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\bin\Debug\net5.0\Repeat2and3.dll
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\bin\Debug\net5.0\ref\Repeat2and3.dll
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\bin\Debug\net5.0\Repeat2and3.pdb
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.csproj.AssemblyReference.cache
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.AssemblyInfoInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.AssemblyInfo.cs
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.csproj.CoreCompileInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.dll
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\ref\Repeat2and3.dll
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.pdb
+E:\C#\BT\inClass\HinhChuNhat\Repeat2and3\obj\Debug\net5.0\Repeat2and3.genruntimeconfig.cache

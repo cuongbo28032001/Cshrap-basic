@@ -1,0 +1,16 @@
+C:\Users\Doan Cuong\source\repos\NhapLieu\bin\Debug\net5.0\NhapLieu.exe
+C:\Users\Doan Cuong\source\repos\NhapLieu\bin\Debug\net5.0\NhapLieu.deps.json
+C:\Users\Doan Cuong\source\repos\NhapLieu\bin\Debug\net5.0\NhapLieu.runtimeconfig.json
+C:\Users\Doan Cuong\source\repos\NhapLieu\bin\Debug\net5.0\NhapLieu.runtimeconfig.dev.json
+C:\Users\Doan Cuong\source\repos\NhapLieu\bin\Debug\net5.0\NhapLieu.dll
+C:\Users\Doan Cuong\source\repos\NhapLieu\bin\Debug\net5.0\ref\NhapLieu.dll
+C:\Users\Doan Cuong\source\repos\NhapLieu\bin\Debug\net5.0\NhapLieu.pdb
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.csproj.AssemblyReference.cache
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.AssemblyInfoInputs.cache
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.AssemblyInfo.cs
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.csproj.CoreCompileInputs.cache
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.dll
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\ref\NhapLieu.dll
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.pdb
+C:\Users\Doan Cuong\source\repos\NhapLieu\obj\Debug\net5.0\NhapLieu.genruntimeconfig.cache

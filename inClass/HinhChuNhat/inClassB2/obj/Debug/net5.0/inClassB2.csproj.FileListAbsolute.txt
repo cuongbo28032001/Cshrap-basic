@@ -1,0 +1,16 @@
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.csproj.AssemblyReference.cache
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.AssemblyInfoInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.AssemblyInfo.cs
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.csproj.CoreCompileInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\bin\Debug\net5.0\inClassB2.exe
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\bin\Debug\net5.0\inClassB2.deps.json
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\bin\Debug\net5.0\inClassB2.runtimeconfig.json
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\bin\Debug\net5.0\inClassB2.runtimeconfig.dev.json
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\bin\Debug\net5.0\inClassB2.dll
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\bin\Debug\net5.0\ref\inClassB2.dll
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\bin\Debug\net5.0\inClassB2.pdb
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.dll
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\ref\inClassB2.dll
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.pdb
+E:\C#\BT\inClass\HinhChuNhat\inClassB2\obj\Debug\net5.0\inClassB2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\bin\Debug\net5.0\GiaiThua.exe
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\bin\Debug\net5.0\GiaiThua.deps.json
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.json
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.dev.json
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\bin\Debug\net5.0\GiaiThua.dll
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\bin\Debug\net5.0\ref\GiaiThua.dll
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\bin\Debug\net5.0\GiaiThua.pdb
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\GiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfoInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfo.cs
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\GiaiThua.csproj.CoreCompileInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\GiaiThua.dll
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\ref\GiaiThua.dll
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\GiaiThua.pdb
+E:\C#\BT\inClass\HinhChuNhat\GiaiThua\obj\Debug\net5.0\GiaiThua.genruntimeconfig.cache

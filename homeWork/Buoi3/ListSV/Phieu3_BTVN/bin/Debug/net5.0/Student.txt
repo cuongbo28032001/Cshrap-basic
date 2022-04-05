@@ -1,0 +1,2 @@
+100|Doan Quoc Cuong|22|nam|7|8|9|8|Gioi
+102|Nguyen Ngoc Cuong|22|nam|9|9|9|9|Gioi

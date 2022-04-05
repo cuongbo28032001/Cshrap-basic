@@ -1,0 +1,16 @@
+C:\Users\Doan Cuong\source\repos\TinhToan\bin\Debug\net5.0\TinhToan.exe
+C:\Users\Doan Cuong\source\repos\TinhToan\bin\Debug\net5.0\TinhToan.deps.json
+C:\Users\Doan Cuong\source\repos\TinhToan\bin\Debug\net5.0\TinhToan.runtimeconfig.json
+C:\Users\Doan Cuong\source\repos\TinhToan\bin\Debug\net5.0\TinhToan.runtimeconfig.dev.json
+C:\Users\Doan Cuong\source\repos\TinhToan\bin\Debug\net5.0\TinhToan.dll
+C:\Users\Doan Cuong\source\repos\TinhToan\bin\Debug\net5.0\ref\TinhToan.dll
+C:\Users\Doan Cuong\source\repos\TinhToan\bin\Debug\net5.0\TinhToan.pdb
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.csproj.AssemblyReference.cache
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfoInputs.cache
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfo.cs
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.csproj.CoreCompileInputs.cache
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.dll
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\ref\TinhToan.dll
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.pdb
+C:\Users\Doan Cuong\source\repos\TinhToan\obj\Debug\net5.0\TinhToan.genruntimeconfig.cache

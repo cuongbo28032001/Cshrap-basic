@@ -1,0 +1,15 @@
+C:\Users\Doan Cuong\source\repos\Mang\bin\Debug\net5.0\Mang.exe
+C:\Users\Doan Cuong\source\repos\Mang\bin\Debug\net5.0\Mang.deps.json
+C:\Users\Doan Cuong\source\repos\Mang\bin\Debug\net5.0\Mang.runtimeconfig.json
+C:\Users\Doan Cuong\source\repos\Mang\bin\Debug\net5.0\Mang.runtimeconfig.dev.json
+C:\Users\Doan Cuong\source\repos\Mang\bin\Debug\net5.0\Mang.dll
+C:\Users\Doan Cuong\source\repos\Mang\bin\Debug\net5.0\ref\Mang.dll
+C:\Users\Doan Cuong\source\repos\Mang\bin\Debug\net5.0\Mang.pdb
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\Mang.AssemblyInfoInputs.cache
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\Mang.AssemblyInfo.cs
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\Mang.csproj.CoreCompileInputs.cache
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\Mang.dll
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\ref\Mang.dll
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\Mang.pdb
+C:\Users\Doan Cuong\source\repos\Mang\obj\Debug\net5.0\Mang.genruntimeconfig.cache

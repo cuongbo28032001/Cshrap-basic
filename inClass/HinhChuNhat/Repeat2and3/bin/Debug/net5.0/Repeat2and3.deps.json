@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Repeat2and3/1.0.0": {
+        "runtime": {
+          "Repeat2and3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repeat2and3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

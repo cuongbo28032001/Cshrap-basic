@@ -1,0 +1,15 @@
+E:\C#\BT\Buoi1\Bai2\TamGiac\bin\Debug\net5.0\TamGiac.exe
+E:\C#\BT\Buoi1\Bai2\TamGiac\bin\Debug\net5.0\TamGiac.deps.json
+E:\C#\BT\Buoi1\Bai2\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.json
+E:\C#\BT\Buoi1\Bai2\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.dev.json
+E:\C#\BT\Buoi1\Bai2\TamGiac\bin\Debug\net5.0\TamGiac.dll
+E:\C#\BT\Buoi1\Bai2\TamGiac\bin\Debug\net5.0\ref\TamGiac.dll
+E:\C#\BT\Buoi1\Bai2\TamGiac\bin\Debug\net5.0\TamGiac.pdb
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfoInputs.cache
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfo.cs
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\TamGiac.csproj.CoreCompileInputs.cache
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\TamGiac.dll
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\ref\TamGiac.dll
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\TamGiac.pdb
+E:\C#\BT\Buoi1\Bai2\TamGiac\obj\Debug\net5.0\TamGiac.genruntimeconfig.cache

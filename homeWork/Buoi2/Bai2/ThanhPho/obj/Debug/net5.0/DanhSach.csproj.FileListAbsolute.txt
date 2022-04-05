@@ -1,0 +1,16 @@
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\bin\Debug\net5.0\DanhSach.exe
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\bin\Debug\net5.0\DanhSach.deps.json
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\bin\Debug\net5.0\DanhSach.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\bin\Debug\net5.0\ref\DanhSach.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\bin\Debug\net5.0\DanhSach.pdb
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\ref\DanhSach.dll
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.pdb
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache
+E:\Kỳ6\C#\BT\homeWork\Buoi2\Bai2\ThanhPho\obj\Debug\net5.0\DanhSach.csproj.AssemblyReference.cache

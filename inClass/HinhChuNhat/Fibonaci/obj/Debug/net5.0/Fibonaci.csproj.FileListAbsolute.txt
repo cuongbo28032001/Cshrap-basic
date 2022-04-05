@@ -1,0 +1,16 @@
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\bin\Debug\net5.0\Fibonaci.exe
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\bin\Debug\net5.0\Fibonaci.deps.json
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\bin\Debug\net5.0\Fibonaci.runtimeconfig.json
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\bin\Debug\net5.0\Fibonaci.runtimeconfig.dev.json
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\bin\Debug\net5.0\Fibonaci.dll
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\bin\Debug\net5.0\ref\Fibonaci.dll
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\bin\Debug\net5.0\Fibonaci.pdb
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.AssemblyInfoInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.AssemblyInfo.cs
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.csproj.CoreCompileInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.dll
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\ref\Fibonaci.dll
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.pdb
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.genruntimeconfig.cache
+E:\C#\BT\inClass\HinhChuNhat\Fibonaci\obj\Debug\net5.0\Fibonaci.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\bin\Debug\net5.0\DanhSach.exe
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\bin\Debug\net5.0\DanhSach.deps.json
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\bin\Debug\net5.0\DanhSach.dll
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\bin\Debug\net5.0\ref\DanhSach.dll
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\bin\Debug\net5.0\DanhSach.pdb
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\DanhSach.dll
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\ref\DanhSach.dll
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\DanhSach.pdb
+E:\C#\BT\inClass\HinhChuNhat\DanhSach\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache

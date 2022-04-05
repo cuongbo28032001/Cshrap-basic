@@ -1,0 +1,15 @@
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\bin\Debug\net5.0\CopyFile.exe
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\bin\Debug\net5.0\CopyFile.deps.json
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\bin\Debug\net5.0\CopyFile.runtimeconfig.json
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\bin\Debug\net5.0\CopyFile.runtimeconfig.dev.json
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\bin\Debug\net5.0\CopyFile.dll
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\bin\Debug\net5.0\ref\CopyFile.dll
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\bin\Debug\net5.0\CopyFile.pdb
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\CopyFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\CopyFile.AssemblyInfoInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\CopyFile.AssemblyInfo.cs
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\CopyFile.csproj.CoreCompileInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\CopyFile.dll
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\ref\CopyFile.dll
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\CopyFile.pdb
+E:\C#\BT\inClass\HinhChuNhat\CopyFile\obj\Debug\net5.0\CopyFile.genruntimeconfig.cache

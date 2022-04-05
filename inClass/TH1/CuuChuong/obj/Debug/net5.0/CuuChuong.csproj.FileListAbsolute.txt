@@ -1,0 +1,15 @@
+C:\Users\Doan Cuong\source\repos\CuuChuong\bin\Debug\net5.0\CuuChuong.exe
+C:\Users\Doan Cuong\source\repos\CuuChuong\bin\Debug\net5.0\CuuChuong.deps.json
+C:\Users\Doan Cuong\source\repos\CuuChuong\bin\Debug\net5.0\CuuChuong.runtimeconfig.json
+C:\Users\Doan Cuong\source\repos\CuuChuong\bin\Debug\net5.0\CuuChuong.runtimeconfig.dev.json
+C:\Users\Doan Cuong\source\repos\CuuChuong\bin\Debug\net5.0\CuuChuong.dll
+C:\Users\Doan Cuong\source\repos\CuuChuong\bin\Debug\net5.0\ref\CuuChuong.dll
+C:\Users\Doan Cuong\source\repos\CuuChuong\bin\Debug\net5.0\CuuChuong.pdb
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\CuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\CuuChuong.AssemblyInfoInputs.cache
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\CuuChuong.AssemblyInfo.cs
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\CuuChuong.csproj.CoreCompileInputs.cache
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\CuuChuong.dll
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\ref\CuuChuong.dll
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\CuuChuong.pdb
+C:\Users\Doan Cuong\source\repos\CuuChuong\obj\Debug\net5.0\CuuChuong.genruntimeconfig.cache

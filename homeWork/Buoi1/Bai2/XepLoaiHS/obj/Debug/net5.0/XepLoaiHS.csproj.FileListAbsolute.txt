@@ -1,0 +1,16 @@
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.exe
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.deps.json
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.json
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.dev.json
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.dll
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\bin\Debug\net5.0\ref\XepLoaiHS.dll
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.pdb
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.AssemblyReference.cache
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfoInputs.cache
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfo.cs
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.dll
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\ref\XepLoaiHS.dll
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.pdb
+E:\C#\BT\Buoi1\Bai2\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.genruntimeconfig.cache

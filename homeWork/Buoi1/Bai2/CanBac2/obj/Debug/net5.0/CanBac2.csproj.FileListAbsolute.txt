@@ -1,0 +1,16 @@
+E:\C#\BT\Buoi1\Bai2\CanBac2\bin\Debug\net5.0\CanBac2.exe
+E:\C#\BT\Buoi1\Bai2\CanBac2\bin\Debug\net5.0\CanBac2.deps.json
+E:\C#\BT\Buoi1\Bai2\CanBac2\bin\Debug\net5.0\CanBac2.runtimeconfig.json
+E:\C#\BT\Buoi1\Bai2\CanBac2\bin\Debug\net5.0\CanBac2.runtimeconfig.dev.json
+E:\C#\BT\Buoi1\Bai2\CanBac2\bin\Debug\net5.0\CanBac2.dll
+E:\C#\BT\Buoi1\Bai2\CanBac2\bin\Debug\net5.0\ref\CanBac2.dll
+E:\C#\BT\Buoi1\Bai2\CanBac2\bin\Debug\net5.0\CanBac2.pdb
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.csproj.AssemblyReference.cache
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.AssemblyInfoInputs.cache
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.AssemblyInfo.cs
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.csproj.CoreCompileInputs.cache
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.dll
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\ref\CanBac2.dll
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.pdb
+E:\C#\BT\Buoi1\Bai2\CanBac2\obj\Debug\net5.0\CanBac2.genruntimeconfig.cache

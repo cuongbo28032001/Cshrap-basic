@@ -1,0 +1,15 @@
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\bin\Debug\net5.0\HeCoSo.exe
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\bin\Debug\net5.0\HeCoSo.deps.json
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\bin\Debug\net5.0\HeCoSo.runtimeconfig.json
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\bin\Debug\net5.0\HeCoSo.runtimeconfig.dev.json
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\bin\Debug\net5.0\HeCoSo.dll
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\bin\Debug\net5.0\ref\HeCoSo.dll
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\bin\Debug\net5.0\HeCoSo.pdb
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\HeCoSo.AssemblyInfoInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\HeCoSo.AssemblyInfo.cs
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\HeCoSo.csproj.CoreCompileInputs.cache
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\HeCoSo.dll
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\ref\HeCoSo.dll
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\HeCoSo.pdb
+E:\C#\BT\inClass\HinhChuNhat\HeCoSo\obj\Debug\net5.0\HeCoSo.genruntimeconfig.cache
