@@ -1,0 +1,16 @@
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.csproj.AssemblyReference.cache
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.AssemblyInfoInputs.cache
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.AssemblyInfo.cs
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.csproj.CoreCompileInputs.cache
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj51.exe
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj51.deps.json
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj51.runtimeconfig.json
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj51.runtimeconfig.dev.json
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj51.dll
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\bin\Debug\net5.0\ref\DoanQuocCuong_2019605438_proj51.dll
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj51.pdb
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.dll
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\ref\DoanQuocCuong_2019605438_proj51.dll
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.pdb
+C:\Users\Doan Cuong\source\repos\QLSV\DoanQuocCuong_2019605438_proj51\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj51.genruntimeconfig.cache

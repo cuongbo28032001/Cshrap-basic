@@ -1,0 +1,16 @@
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\bin\Debug\net5.0\Bai3_UCLN.exe
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\bin\Debug\net5.0\Bai3_UCLN.deps.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\bin\Debug\net5.0\Bai3_UCLN.runtimeconfig.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\bin\Debug\net5.0\Bai3_UCLN.runtimeconfig.dev.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\bin\Debug\net5.0\Bai3_UCLN.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\bin\Debug\net5.0\ref\Bai3_UCLN.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\bin\Debug\net5.0\Bai3_UCLN.pdb
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.csproj.AssemblyReference.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.AssemblyInfoInputs.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.AssemblyInfo.cs
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.csproj.CoreCompileInputs.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\ref\Bai3_UCLN.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.pdb
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\Bai3_UCLN\obj\Debug\net5.0\Bai3_UCLN.genruntimeconfig.cache

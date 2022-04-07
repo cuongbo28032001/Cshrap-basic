@@ -1,0 +1,16 @@
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj52.exe
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj52.deps.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj52.runtimeconfig.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj52.runtimeconfig.dev.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj52.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\bin\Debug\net5.0\ref\DoanQuocCuong_2019605438_proj52.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\bin\Debug\net5.0\DoanQuocCuong_2019605438_proj52.pdb
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.csproj.AssemblyReference.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.AssemblyInfoInputs.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.AssemblyInfo.cs
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.csproj.CoreCompileInputs.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\ref\DoanQuocCuong_2019605438_proj52.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.pdb
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_2019605438_proj52\DoanQuocCuong_2019605438_proj52\obj\Debug\net5.0\DoanQuocCuong_2019605438_proj52.genruntimeconfig.cache
