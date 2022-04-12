@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Ky6\\C#\\BT\\inClass\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj": {}
+    "E:\\Ky6\\C#\\code git\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj": {}
   },
   "projects": {
-    "E:\\Ky6\\C#\\BT\\inClass\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj": {
+    "E:\\Ky6\\C#\\code git\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Ky6\\C#\\BT\\inClass\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj",
+        "projectUniqueName": "E:\\Ky6\\C#\\code git\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj",
         "projectName": "Bai2",
-        "projectPath": "E:\\Ky6\\C#\\BT\\inClass\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj",
+        "projectPath": "E:\\Ky6\\C#\\code git\\DoanQuocCuong_2019605438_proj52\\Bai2\\Bai2.csproj",
         "packagesPath": "C:\\Users\\Doan Cuong\\.nuget\\packages\\",
-        "outputPath": "E:\\Ky6\\C#\\BT\\inClass\\DoanQuocCuong_2019605438_proj52\\Bai2\\obj\\",
+        "outputPath": "E:\\Ky6\\C#\\code git\\DoanQuocCuong_2019605438_proj52\\Bai2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doan Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",

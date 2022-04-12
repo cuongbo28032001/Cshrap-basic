@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Doan Cuong\\source\\repos\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj": {}
+    "E:\\Ky6\\C#\\code git\\homeWork\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Doan Cuong\\source\\repos\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj": {
+    "E:\\Ky6\\C#\\code git\\homeWork\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doan Cuong\\source\\repos\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj",
+        "projectUniqueName": "E:\\Ky6\\C#\\code git\\homeWork\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj",
         "projectName": "DoanQuocCuong_2019605438_proj51",
-        "projectPath": "C:\\Users\\Doan Cuong\\source\\repos\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj",
+        "projectPath": "E:\\Ky6\\C#\\code git\\homeWork\\QLSV\\DoanQuocCuong_2019605438_proj51\\DoanQuocCuong_2019605438_proj51.csproj",
         "packagesPath": "C:\\Users\\Doan Cuong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doan Cuong\\source\\repos\\QLSV\\DoanQuocCuong_2019605438_proj51\\obj\\",
+        "outputPath": "E:\\Ky6\\C#\\code git\\homeWork\\QLSV\\DoanQuocCuong_2019605438_proj51\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doan Cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",

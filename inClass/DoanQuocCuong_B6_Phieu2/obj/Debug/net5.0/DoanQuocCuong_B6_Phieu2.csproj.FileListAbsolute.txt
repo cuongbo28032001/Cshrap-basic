@@ -1,0 +1,16 @@
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\bin\Debug\net5.0\DoanQuocCuong_B6_Phieu2.exe
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\bin\Debug\net5.0\DoanQuocCuong_B6_Phieu2.deps.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\bin\Debug\net5.0\DoanQuocCuong_B6_Phieu2.runtimeconfig.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\bin\Debug\net5.0\DoanQuocCuong_B6_Phieu2.runtimeconfig.dev.json
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\bin\Debug\net5.0\DoanQuocCuong_B6_Phieu2.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\bin\Debug\net5.0\ref\DoanQuocCuong_B6_Phieu2.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\bin\Debug\net5.0\DoanQuocCuong_B6_Phieu2.pdb
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.csproj.AssemblyReference.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.AssemblyInfoInputs.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.AssemblyInfo.cs
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.csproj.CoreCompileInputs.cache
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\ref\DoanQuocCuong_B6_Phieu2.dll
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.pdb
+E:\Ky6\C#\BT\inClass\DoanQuocCuong_B6_Phieu2\obj\Debug\net5.0\DoanQuocCuong_B6_Phieu2.genruntimeconfig.cache
